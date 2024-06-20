@@ -1,11 +1,11 @@
-<p align="center"><a href="https://jensoncaparida.me"><img width="40%" alt="Hello, I'm Anurag. I do open source!" src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://jensoncaparida.me"><img width="45%" alt="Hello, I'm Anurag. I do open source!" src="./assets/readme-header.png" /></a></p>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=jenzone&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="jenzone" /></p>
 
 <br />
 
 ### 🧐 About Me 
 
-- An aspiring Software Developer from the Philippines who focused on building seamless and interactive applications using modern technologies.
+- An aspiring Full Stack Developer from the Philippines who focused on building seamless and interactive applications using modern technologies.
 - I love creating **web apps**, **UX design**, **PCB design** and some **IoT device**.
 
 ### 🛠 My Current Stack

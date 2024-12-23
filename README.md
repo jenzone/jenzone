@@ -1,4 +1,4 @@
-<p align="center"><a href="https://jensoncaparida.me"><img width="45%" alt="Hi, I'm Jenson. An Aspiring Developer." src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://jensoncaparida.me"><img width="45%" alt="Hi, I'm Jenson. An Aspiring Developer." src="./assets/readme-headerV2.png" /></a></p>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=jenzone&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="jenzone" /></p>
 
 <br />

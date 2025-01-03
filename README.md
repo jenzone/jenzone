@@ -5,7 +5,7 @@
 
 ### 🧐 About Me
 
-- An aspiring Software Engineer from the Philippines with a strong passion for learning, designing and creating seamlessly interactive applications.
+- An aspiring Software Engineer from the Philippines with a strong passion for learning, designing and creating seamlessly interactive and scalable applications.
 - I love creating **web apps**, **UX design**, and some **IoT device system**.
 
 ### 🛠 My Current Stack
